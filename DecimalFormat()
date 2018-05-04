@@ -1,0 +1,24 @@
+package receiptDemo;
+
+import java.text.DecimalFormat;
+
+/**
+ * @ClassName: Demoprint
+ * @Description: TODO(这里用一句话描述这个类的作用)
+ * @date 2018年5月4日 下午7:53:20
+ * 
+ */
+public class Demoprint {
+	public static void main(String[] args) {
+		String name = "张三";
+		double price = 22.3612;
+		double num =66;
+		int id =23504;
+//		DecimalFormat df1 = new DecimalFormat();
+//		df1.applyPattern("#.##");
+//		String strp  = df1.format(price);
+//		System.out.println(strp);
+		
+		
+	}
+}
